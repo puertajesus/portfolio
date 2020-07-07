@@ -27,16 +27,16 @@
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item ">
-                        <a class="nav-link " href="index.html" title="Inicio"> Inicio</a>
+                        <a class="nav-link " href="index.php" title="Inicio"> Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="sobre-mi.html" title="Sobre mí">Sobre mí</a>
+                        <a class="nav-link " href="sobre-mi.php" title="Sobre mí">Sobre mí</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="proyectos.html"title="Proyectos" >Proyectos</a>
+                        <a class="nav-link " href="proyectos.php"title="Proyectos" >Proyectos</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link " href="contacto.html"title="Contacto"  >Contacto</a>
+                        <a class="nav-link " href="contacto.php"title="Contacto"  >Contacto</a>
                     </li>
                 </ul>
 
@@ -55,7 +55,7 @@
                 <div class="col-12">
                     <h2>Para mas detalles sobre mí<br>
                         trabajo podés ver mi <a href="https://www.linkedin.com" target="_blank"> Linkedin</a>,<br>
-                        descargar mi <a href="file/Cv Jesus Puerta.pdf" target="_blank">CV</a>  o mandarme<br>
+                        descargar mi <a href="file/cv-jesus-puerta.pdf" target="_blank">CV</a>  o mandarme<br>
                         un <a href="#formulario"> mensaje</a>
                     </h2>
                 </div>
@@ -96,7 +96,7 @@
         <div class="container">
             <div class="row my-0">
                 <div class="col-sm-4 col-12 text-sm-left text-left py-0">
-                    <a href="index.html">Todos los derechos reservados<br>2020</a>
+                    <a href="index.php">Todos los derechos reservados<br>2020</a>
                 </div>
                 <div class=" col-sm-4 col-12 text-center text-sm-center py-0 my-sm-0">
                     <a href="https://api.whatsapp.com/send?phone=5492213644482&text=Hola" target="_blank" class="img-cicle" ><i

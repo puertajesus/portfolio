@@ -28,16 +28,16 @@
                 <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
-                            <a class="nav-link " href="index.html" title="Inicio"> Inicio</a>
+                            <a class="nav-link " href="index.php" title="Inicio"> Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="sobre-mi.html" title="Sobre mí">Sobre mí</a>
+                            <a class="nav-link " href="sobre-mi.php" title="Sobre mí">Sobre mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="proyectos.html" title="Proyectos">Proyectos</a>
+                            <a class="nav-link " href="proyectos.php" title="Proyectos">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="contacto.html" title="Contacto">Contacto</a>
+                            <a class="nav-link " href="contacto.php" title="Contacto">Contacto</a>
                         </li>
                     </ul>
 
@@ -61,7 +61,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-4 col-12 text-sm-left text-left py-10">
-                    <a href="index.html">&#169;Todos los derechos reservados<br>2020</a>
+                    <a href="index.php">&#169;Todos los derechos reservados<br>2020</a>
                 </div>
                 <div class="col-sm-4 col-12 text-center py-10 py-sm-0">
                     <a href="https://api.whatsapp.com/send?phone=5492213644482&text=Hola" target="_blank" class="img-cicle"><i class="fab fa-whatsapp"></i></a>
