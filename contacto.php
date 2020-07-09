@@ -15,7 +15,6 @@
     <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
     <link rel="stylesheet" href="ccs/estilos.css">
 </head>
-
 <body>
     <header>
         <nav class="navbar navbar-expand-md navbar-dark">
