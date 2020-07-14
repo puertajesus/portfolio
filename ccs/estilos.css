@@ -227,7 +227,7 @@ footer .text-right{
         margin: 0px;               
                     }
     .navbar-toggler .navbar-toggler-icon{
-        display: inline-block;
+        display: block;
         background-color:transparent;
         padding: 0px 20px;
         float: right;

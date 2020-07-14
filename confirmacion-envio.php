@@ -28,7 +28,7 @@
         <div class="container-en mb-10">
            <div class="row ">
                 <div class="col-12 ">
-                    <h1>Gracias por <br> contactarte,</h1>
+                    <h1>Gracias: <?php.$_POST['text']?> por <br> contactarte,</h1>
                 </div>
 
             </div>
